@@ -1,3 +1,6 @@
 [submodule "get-pad"]
 	path = get-pad
 	url = https://github.com/hugoroy/get-pad.git
+[submodule "filters/pandocfilters"]
+	path = filters/pandocfilters
+	url = https://github.com/jgm/pandocfilters
