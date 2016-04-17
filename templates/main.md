@@ -21,7 +21,7 @@ header-includes:
   - \parskip=6pt
 euro: true
 include-before:
-  - \pagestyle{empty}
+  - \pagestyle{plain}
 csl: pandocincludes/french-legal.csl
 bibliography: data/references.yaml
 ...
