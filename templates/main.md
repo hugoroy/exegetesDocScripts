@@ -18,23 +18,13 @@ header-includes:
   - \def\Llap{\ifhmode\ERROR\fi\strut\llap}
   - \setcounter{tocdepth}{2}
   - \setcounter{secnumdepth}{4}
-  - \titleclass{\chapter}{top}
-  - %\titleformat{\chapter}[display]{\huge\sffamily\bfseries}{}{0pt}{\thechapter. }
-  - \renewcommand{\thechapter}{\Roman{chapter}}
-  - \titleformat{\chapter}[display]{\centering\Large}{}{0pt}{%
-  - \scshape\MakeLowercase\thechapter. \MakeLowercase}
-  - \titleformat{name=\chapter,numberless}[display]{\centering\Large}{}{0pt}{%
-  - \scshape\MakeLowercase}
-  - \renewcommand{\thesection}{\arabic{section}}
-  - \titleformat{\section}[hang]{\Large\bfseries}{}{0pt}{\thesection.~}
-  - \titleformat{\subsection}[hang]{\large\bfseries}{}{0pt}{\thesubsection.~}
-  - \titleformat{\subsubsection}[hang]{\bfseries}{}{0pt}{\thesubsubsection.~}
+  - \input data/titleclass
   - \parskip=6pt
 euro: true
 include-before:
   - \pagestyle{empty}
 csl: pandocincludes/french-legal.csl
-bibliography: pandocincludes/references.yaml
+bibliography: data/references.yaml
 ...
 
 <!-- Page de garde LaTeX -->
