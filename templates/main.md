@@ -6,7 +6,6 @@ babel-lang: french
 mainlang: french
 geometry: a4paper, margin=1in
 header-includes:
-  - \usecpackage[hyphens]{url}
   - \usepackage{titlesec,varioref}
   - \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 
   - \DeclareUnicodeCharacter{00B0}{\textsuperscript{o}}
