@@ -7,7 +7,7 @@ Amateurs. [Site web](https://exegetes.eu.org/outils/).
 
 ## Installation et pré-requis
 
-Ne pas oublier les submodules Git :
+Ne pas oublier les submodules Git. Pour un dépôt déjà cloné :
 
     git submodule update --init --recursive
 
