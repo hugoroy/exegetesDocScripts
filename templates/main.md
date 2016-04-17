@@ -3,6 +3,7 @@ documentclass: report
 classoption: 12pt
 lang: fr-fr
 babel-lang: french
+mainlang: french
 geometry: a4paper, margin=1in
 header-includes:
   - \usecpackage[hyphens]{url}
