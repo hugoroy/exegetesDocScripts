@@ -13,7 +13,7 @@ Ne pas oublier les submodules Git :
 
 Ces outils de production de documents nécessitent :
 
-* [Pandoc] *dans des versions récentes*
+* [Pandoc] *dans une version récente*
 * LaTeX
 * Python
 * Zsh (TODO: devrait pouvoir être remplacé par un shell plus commun)
@@ -65,7 +65,7 @@ bibliographique ou notre format de titre LaTeX sont dans `data/`.
 
 ## À faire
 
- [ ] Corriger les dépendances de get-pad
- [ ] Faire les variables dans pad2latex.zsh
- [ ] Script et filtres d'exportation en HTML
- [ ] Améliorer le style de citation `pandocincludes/french-legal.csl`
+- [ ] Corriger les dépendances de get-pad
+- [ ] Faire les variables dans pad2latex.zsh
+- [ ] Script et filtres d'exportation en HTML
+- [ ] Améliorer le style de citation `pandocincludes/french-legal.csl`
