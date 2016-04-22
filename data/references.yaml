@@ -12,7 +12,7 @@ references:
   title-short: Klass c. All.
   number: n^o^ 5029/71
   lawidentifier:
-  url:
+  url: http://hudoc.echr.coe.int/eng?i=001-62068
   comments:
 - type: legal_case
   id: cedhWeber
@@ -26,7 +26,7 @@ references:
   title-short: Weber c. All.
   number: n^o^ 54934/00
   lawidentifier:
-  url:
+  url: http://hudoc.echr.coe.int/eng?i=001-91699
   comments:
 - type: legal_case
   id: cedhLiberty
@@ -39,8 +39,8 @@ references:
   title: Liberty et autres c. Royaume-Uni
   title-short: Liberty c. R-U
   number: n^o^ 58243/00
-  lawidentifier:
-  url:
+  lawidentifier: 
+  url: http://hudoc.echr.coe.int/eng?i=001-87208
   comments:
 - type: legal_case
   id: cedhKennedy
@@ -54,7 +54,7 @@ references:
   title-short: Kennedy c. R-U
   number: n^o^ 26839/05
   lawidentifier:
-  url:
+  url: http://hudoc.echr.coe.int/eng?i=001-98672
   comments:
 - type: legal_case
   id: cjueDRI
@@ -68,7 +68,7 @@ references:
   title-short: Digital Rights Ireland
   number: "C-293/12, C-594/12"
   lawidentifier: "ECLI:EU:C:2014:238"
-  url:
+  url: http://curia.europa.eu/juris/documents.jsf?num=C-293/12
   comments:
 - type: legal_case
   id: cjueSchrems
@@ -82,7 +82,7 @@ references:
   title-short: Schrems
   number: C-362/14
   lawidentifier: "ECLI:EU:C:2015:650"
-  url:
+  url: http://curia.europa.eu/juris/documents.jsf?num=C-362/14
   comments:
 - type: legal_case
   id: cedhZakharov
@@ -96,7 +96,7 @@ references:
   title-short: Zakharov c. Russie
   number: n^o^ 47143/06
   lawidentifier:
-  url:
+  url: http://hudoc.echr.coe.int/eng?i=001-160008
   comments:
 - type: legal_case
   id: cedhMarper
@@ -110,7 +110,7 @@ references:
   title-short: Marper c. R-U
   number: n^os^ 30562/04 et 30566/04
   lawidentifier:
-  url:
+  url: http://hudoc.echr.coe.int/eng?i=001-90052
   comments:
 - type: legal_case
   id: cjueIPI
@@ -124,7 +124,7 @@ references:
   title-short: IPI c. Englebert
   number: C-473/12
   lawidentifier: "ECLI:EU:C:2013:715"
-  url:
+  url: http://curia.europa.eu/juris/liste.jsf?num=C-473/12
   comments:
 - type: legal_case
   id: cedhLeander
@@ -138,7 +138,7 @@ references:
   title-short: Leander c. Suède
   number: n^o^ 9248/81
   lawidentifier:
-  url:
+  url: http://hudoc.echr.coe.int/eng?i=001-62077
   comments:
 - type: legal_case
   id: cedhRotaru
@@ -152,7 +152,7 @@ references:
   title-short: Rotaru c. Roumanie
   number: n^o^ 28341/95
   lawidentifier:
-  url:
+  url: http://hudoc.echr.coe.int/eng?i=001-63075
   comments:
 - type: legal_case
   id: cedhSzabo
@@ -166,7 +166,7 @@ references:
   title-short: Szabó c. Hongrie
   number: n^o^ 37138/14
   lawidentifier:
-  url:
+  url: http://hudoc.echr.coe.int/eng?i=001-160020
   comments:
 - type: legal_case
   id: cjueCruciano
@@ -179,8 +179,8 @@ references:
   title: "Cruciano Siragusa c. Regione Sicilia -- Soprintendenza Beni Culturali e Ambientali di Palermo"
   title-short: "Cruciano Siragusa"
   number: C-206/13
-  lawidentifier:
-  url:
+  lawidentifier: ECLI:EU:C:2014:126
+  url: http://curia.europa.eu/juris/liste.jsf?num=C-206/13
   comments:
 - type: legal_case
   id: cjuePfleger
@@ -193,8 +193,8 @@ references:
   title: Pfleger et autres
   title-short: Pfleger
   number: C-390/12
-  lawidentifier:
-  url:
+  lawidentifier: ECLI:EU:C:2014:281
+  url: http://curia.europa.eu/juris/liste.jsf?&num=C-390/12
   comments:
 - type: legal_case
   id: cjueIrlandeVsEuroparl
@@ -207,8 +207,8 @@ references:
   title: "Irlande c. Parlement européen et Conseil de l'Union européenne"
   title-short: "Irlande c. Parlement et Conseil"
   number: C-301/06
-  lawidentifier:
-  url:
+  lawidentifier: ECLI:EU:C:2009:68
+  url: http://curia.europa.eu/juris/liste.jsf?num=C-301/06
   comments:
 - type: legal_case
   id: cedhShimovolos
@@ -455,8 +455,8 @@ references:
   title: "Parti écologiste Les Verts c. Parlement européen"
   title-short: Les Verts
   number: 294/83
-  lawidentifier:
-  url:
+  lawidentifier: ECLI:EU:C:1986:166
+  url: http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:61983CJ0294
   comments:
 - type: legal_case
   id: cjceHeylens
@@ -511,7 +511,7 @@ references:
   title: ZZ c. Secretary of State for the Home Department
   title-short: ZZ
   number: C-300/11
-  lawidentifier:
+  lawidentifier: ECLI:EU:C:2013:363 
   url:
   comments:
 - type: legal_case
