@@ -24,6 +24,9 @@ include-before:
   - \pagestyle{plain}
 csl: pandocincludes/french-legal.csl
 bibliography: data/references.yaml
+latex-environment:
+  loi: [loi, law]
+  parl: [parl]
 ...
 
 <!-- Page de garde LaTeX -->
