@@ -16,6 +16,11 @@ Ces outils de production de documents nécessitent :
 * [Pandoc] *dans une version récente*
 * LaTeX
 * Python
+    * pandocfilters
+    * pandoc-latex-environment
+
+    For instance `pip install pandocfilters pandoc-latex-environment`
+
 * Zsh (TODO: devrait pouvoir être remplacé par un shell plus commun)
 
 ## Description des composants
