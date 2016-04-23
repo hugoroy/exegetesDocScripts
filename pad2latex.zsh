@@ -4,12 +4,6 @@
 
 # Get pad
 #./get-pad/get-pad.pl --options \
-#    && \ # Run pandoc' citation process 
+#    && \ # Run pandoc
 
-    pandoc -f markdown PADNUMBER -t json --self-contained -o /tmp/PADNUMBER.json --filter pandoc-citeproc  \
-        && \
-    pandoc -f json /tmp/PADNUMBER.json -t json --self-contained -o /tmp/PADNUMBER.json.0 --filter ./filters/latex.zsh \
-        && \
-    pandoc -f json /tmp/PADNUMBER.json.0 -t json --self-contained -o /tmp/PADNUMBER.json.1 --filter ./filters/nettoyage.zsh \
-        && \
-    pandoc -f json /tmp/PADNUMBER.json.1 -t latex --self-contained -o DOCUMENT-TITLE.tex --filter pandoc-latex-environment --template ./pandocincludes/exegetes.latex
+    pandoc -f markdown PADNUMBER -t latex --self-contained -o DOCUMENT-TITLE.tex --filter pandoc-citeproc --filter ./filters/latex.zsh --filter ./filters/nettoyage.zsh --filter pandoc-latex-environment --template ./pandocincludes/exegetes.latex
