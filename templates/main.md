@@ -14,6 +14,7 @@ header-includes:
   - \fi
   - \newenvironment{loi}{\begin{quote}\sffamily\itshape}{\end{quote}}
   - \newenvironment{parl}{\begin{quote}\itshape}{\end{quote}}
+  - \newenvironment{jpref}{\sffamily\parindent 0pt \noindent}{}
   - \def\Llap{\ifhmode\ERROR\fi\strut\llap}
   - \setcounter{tocdepth}{2}
   - \setcounter{secnumdepth}{4}
@@ -25,8 +26,9 @@ include-before:
 csl: pandocincludes/french-legal.csl
 bibliography: data/references.yaml
 latex-environment:
-  loi: [loi, law]
-  parl: [parl]
+  loi: loi
+  parl: parl
+  jpref: jpref
 ...
 
 <!-- Page de garde LaTeX -->
@@ -36,7 +38,7 @@ latex-environment:
 
 # Table des jurisprudences {.unnumbered}
 
-<div id="refs"></div>
+<div id="refs" class="jpref"></div>
 
 # Faits
 
