@@ -409,8 +409,8 @@
               </date>
               <text variable="title" font-style="italic" suffix=", "/>
               <text variable="number" suffix=""/>
-              <if variable="url" match="all">
-                <text variable="url" prefix=" &lt;" suffix="&gt;"/>
+              <if variable="URL" match="all">
+                <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
               </if>
             </if>
             <else-if variable="authority title issued number" match="all">
@@ -422,8 +422,8 @@
               </date>
               <text variable="title" font-style="italic" suffix=", "/>
               <text variable="number" suffix=""/>
-              <if variable="url" match="all">
-                <text variable="url" prefix=" &lt;" suffix="&gt;"/>
+              <if variable="URL" match="all">
+                <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
               </if>
             </else-if>
             <else-if variable="authority title issued" match="all">
@@ -434,23 +434,23 @@
                 <date-part name="year" form="long" suffix=""/>
               </date>
               <text variable="title" font-style="italic" suffix=""/>
-              <if variable="url" match="all">
-                <text variable="url" prefix=" &lt;" suffix="&gt;"/>
+              <if variable="URL" match="all">
+                <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
               </if>
             </else-if>
             <else-if variable="authority title number" match="all">
               <text variable="authority" suffix=", "/>
               <text variable="title" font-style="italic" suffix=", "/>
               <text variable="number" suffix=""/>
-              <if variable="url" match="all">
-                <text variable="url" prefix=" &lt;" suffix="&gt;"/>
+              <if variable="URL" match="all">
+                <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
               </if>
             </else-if>
             <else-if variable="authority number" match="all">
               <text variable="authority" suffix=", "/>
               <text variable="number" suffix=""/>
-              <if variable="url" match="all">
-                <text variable="url" prefix=" &lt;" suffix="&gt;"/>
+              <if variable="URL" match="all">
+                <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
               </if>
             </else-if>
           </choose>
