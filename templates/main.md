@@ -26,9 +26,9 @@ include-before:
 csl: pandocincludes/french-legal.csl
 bibliography: data/references.yaml
 latex-environment:
-  loi: loi
-  parl: parl
-  jpref: jpref
+  loi: [loi]
+  parl: [parl]
+  jpref: [jpref]
 ...
 
 <!-- Page de garde LaTeX -->
