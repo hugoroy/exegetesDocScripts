@@ -12,7 +12,7 @@ references:
   title-short: Klass c. All.
   number: n^o^ 5029/71
   lawidentifier:
-  url: http://hudoc.echr.coe.int/eng?i=001-62068
+  URL: http://hudoc.echr.coe.int/eng?i=001-62068
   comments:
 - type: legal_case
   id: cedhWeber
@@ -26,7 +26,7 @@ references:
   title-short: Weber c. All.
   number: n^o^ 54934/00
   lawidentifier:
-  url: http://hudoc.echr.coe.int/eng?i=001-91699
+  URL: http://hudoc.echr.coe.int/eng?i=001-91699
   comments:
 - type: legal_case
   id: cedhLiberty
@@ -40,7 +40,7 @@ references:
   title-short: Liberty c. R-U
   number: n^o^ 58243/00
   lawidentifier: 
-  url: http://hudoc.echr.coe.int/eng?i=001-87208
+  URL: http://hudoc.echr.coe.int/eng?i=001-87208
   comments:
 - type: legal_case
   id: cedhKennedy
@@ -54,7 +54,7 @@ references:
   title-short: Kennedy c. R-U
   number: n^o^ 26839/05
   lawidentifier:
-  url: http://hudoc.echr.coe.int/eng?i=001-98672
+  URL: http://hudoc.echr.coe.int/eng?i=001-98672
   comments:
 - type: legal_case
   id: cjueDRI
@@ -68,7 +68,7 @@ references:
   title-short: Digital Rights Ireland
   number: "C-293/12, C-594/12"
   lawidentifier: "ECLI:EU:C:2014:238"
-  url: http://curia.europa.eu/juris/documents.jsf?num=C-293/12
+  URL: http://curia.europa.eu/juris/documents.jsf?num=C-293/12
   comments:
 - type: legal_case
   id: cjueSchrems
@@ -82,7 +82,7 @@ references:
   title-short: Schrems
   number: C-362/14
   lawidentifier: "ECLI:EU:C:2015:650"
-  url: http://curia.europa.eu/juris/documents.jsf?num=C-362/14
+  URL: http://curia.europa.eu/juris/documents.jsf?num=C-362/14
   comments:
 - type: legal_case
   id: cedhZakharov
@@ -96,7 +96,7 @@ references:
   title-short: Zakharov c. Russie
   number: n^o^ 47143/06
   lawidentifier:
-  url: http://hudoc.echr.coe.int/eng?i=001-160008
+  URL: http://hudoc.echr.coe.int/eng?i=001-160008
   comments:
 - type: legal_case
   id: cedhMarper
@@ -110,7 +110,7 @@ references:
   title-short: Marper c. R-U
   number: n^os^ 30562/04 et 30566/04
   lawidentifier:
-  url: http://hudoc.echr.coe.int/eng?i=001-90052
+  URL: http://hudoc.echr.coe.int/eng?i=001-90052
   comments:
 - type: legal_case
   id: cjueIPI
@@ -124,7 +124,7 @@ references:
   title-short: IPI c. Englebert
   number: C-473/12
   lawidentifier: "ECLI:EU:C:2013:715"
-  url: http://curia.europa.eu/juris/liste.jsf?num=C-473/12
+  URL: http://curia.europa.eu/juris/liste.jsf?num=C-473/12
   comments:
 - type: legal_case
   id: cedhLeander
@@ -138,7 +138,7 @@ references:
   title-short: Leander c. Suède
   number: n^o^ 9248/81
   lawidentifier:
-  url: http://hudoc.echr.coe.int/eng?i=001-62077
+  URL: http://hudoc.echr.coe.int/eng?i=001-62077
   comments:
 - type: legal_case
   id: cedhRotaru
@@ -152,7 +152,7 @@ references:
   title-short: Rotaru c. Roumanie
   number: n^o^ 28341/95
   lawidentifier:
-  url: http://hudoc.echr.coe.int/eng?i=001-63075
+  URL: http://hudoc.echr.coe.int/eng?i=001-63075
   comments:
 - type: legal_case
   id: cedhSzabo
@@ -166,7 +166,7 @@ references:
   title-short: Szabó c. Hongrie
   number: n^o^ 37138/14
   lawidentifier:
-  url: http://hudoc.echr.coe.int/eng?i=001-160020
+  URL: http://hudoc.echr.coe.int/eng?i=001-160020
   comments:
 - type: legal_case
   id: cjueCruciano
@@ -180,7 +180,7 @@ references:
   title-short: "Cruciano Siragusa"
   number: C-206/13
   lawidentifier: ECLI:EU:C:2014:126
-  url: http://curia.europa.eu/juris/liste.jsf?num=C-206/13
+  URL: http://curia.europa.eu/juris/liste.jsf?num=C-206/13
   comments:
 - type: legal_case
   id: cjuePfleger
@@ -194,7 +194,7 @@ references:
   title-short: Pfleger
   number: C-390/12
   lawidentifier: ECLI:EU:C:2014:281
-  url: http://curia.europa.eu/juris/liste.jsf?&num=C-390/12
+  URL: http://curia.europa.eu/juris/liste.jsf?&num=C-390/12
   comments:
 - type: legal_case
   id: cjueIrlandeVsEuroparl
@@ -208,7 +208,7 @@ references:
   title-short: "Irlande c. Parlement et Conseil"
   number: C-301/06
   lawidentifier: ECLI:EU:C:2009:68
-  url: http://curia.europa.eu/juris/liste.jsf?num=C-301/06
+  URL: http://curia.europa.eu/juris/liste.jsf?num=C-301/06
   comments:
 - type: legal_case
   id: cedhShimovolos
@@ -221,7 +221,7 @@ references:
   title: "Shimovolos c. Russie"
   number: n^o^ 30164/09
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cedhNiemietz
@@ -234,7 +234,7 @@ references:
   title: "Niemietz c. Allemagne"
   number: n^o^ 13710/88
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cedhCopland
@@ -247,7 +247,7 @@ references:
   title: Copland c. Royaume-Uni
   number: n^o^ 62617/00
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cedhDragojevic
@@ -260,7 +260,7 @@ references:
   title: "Dragojević c. Croatie"
   number: n^o^ 68955/11
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cedhPeck
@@ -274,7 +274,7 @@ references:
   title-short: Peck c. R-U
   number: n^o^ 44647/98
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cedhEkimdzhiev
@@ -288,7 +288,7 @@ references:
   title-short: "Ekimdzhiev c. Bulgarie"
   number: n^o^ 62540/00
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cedhIordachi
@@ -302,7 +302,7 @@ references:
   title-short: "Iordachi c. Moldova"
   number: n^o^ 25198/02
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cedhHalford
@@ -316,7 +316,7 @@ references:
   title-short: Halford c. R-U
   number: n^o^ 20695/92
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cedhPgjh
@@ -330,7 +330,7 @@ references:
   title-short: PG et JH c. R-U
   number: n^o^ 4478/98
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cedhSanMarino
@@ -344,7 +344,7 @@ references:
   title-short: MN c. San Marino
   number: n^o^ 28005/12
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cedhMalone
@@ -358,7 +358,7 @@ references:
   title-short: Malone c. R-U
   number: n^o^ 8691/79
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cconstRenseignmt
@@ -372,7 +372,7 @@ references:
   title-short: Loi renseignement
   number: DC 2015-713
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cjueSabam
@@ -386,7 +386,7 @@ references:
   title-short: SABAM
   number: C-360/10
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cconstSurvintl
@@ -400,7 +400,7 @@ references:
   title-short: Loi surveillance internationale
   number: DC 2015-722
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cconstAccesadmin2006
@@ -414,7 +414,7 @@ references:
   title-short: "Loi terrorisme"
   number: DC 2005-532
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cconstLPM
@@ -428,7 +428,7 @@ references:
   title-short: FDN
   number: QPC 2015-478
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cconstHadopi
@@ -442,7 +442,7 @@ references:
   title-short: Loi Hadopi
   number: DC 2009-580
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cjceVerts
@@ -456,7 +456,7 @@ references:
   title-short: Les Verts
   number: 294/83
   lawidentifier: ECLI:EU:C:1986:166
-  url: http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:61983CJ0294
+  URL: http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:61983CJ0294
   comments:
 - type: legal_case
   id: cjceHeylens
@@ -470,7 +470,7 @@ references:
   title-short: Heylens
   number: 222/86
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cjceJohnston
@@ -484,7 +484,7 @@ references:
   title-short: Johnston
   number: 222/84
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cjueUgt
@@ -498,7 +498,7 @@ references:
   title-short: UGT Rioja
   number: C-428/06
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cjueZz
@@ -512,7 +512,7 @@ references:
   title-short: ZZ
   number: C-300/11
   lawidentifier: ECLI:EU:C:2013:363 
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cedhVetter
@@ -525,7 +525,7 @@ references:
   title: Vetter c. France
   number: n^o^ 59842/00
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cedhKruslin
@@ -538,7 +538,7 @@ references:
   title: Kruslin c. France
   number: n^o^ 11801/85
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cjueTelekabel
@@ -551,7 +551,7 @@ references:
   title: Telekabel
   number: C-314/12
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cedhEkin
@@ -564,7 +564,7 @@ references:
   title: Association Ekin c. France
   number: n^o^ 39288/98
   lawidentifier:
-  url:
+  URL:
   comments:
 - type: legal_case
   id: cedhDeweer
