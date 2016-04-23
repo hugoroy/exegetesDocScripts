@@ -72,5 +72,5 @@ bibliographique ou notre format de titre LaTeX sont dans `data/`.
 
 - [ ] Corriger les dépendances de get-pad
 - [ ] Faire les variables dans pad2latex.zsh et pad2html.zsh
-- [X] Script et filtres d'exportation en HTML
-- [ ] Améliorer le style de citation `pandocincludes/french-legal.csl`
+- [x] Script et filtres d'exportation en HTML
+- [x] Améliorer le style de citation `pandocincludes/french-legal.csl`
