@@ -200,25 +200,32 @@
             </else-if>
           </choose>
         </if>
-        <else-if type="legislation"><!-- CHECK this -->
-          <choose>
-            <if variable="container-title section" match="all">
-              <text variable="section" suffix=" "/>
-              <text variable="container-title"/>
-              <choose>
-                <if position="first">
-                  <choose>
-                    <if variable="references">
-                      <text variable="references" prefix=" "/>
-                    </if>
-                  </choose>
-                </if>
-              </choose>
-            </if>
-            <else>
-              <text variable="title"/>
-            </else>
-          </choose>
+        <else-if type="legislation">
+          <!-- <choose> -->
+          <!--   <if variable="container-title section" match="all"> -->
+          <!--     <text variable="section" suffix=" "/> -->
+          <!--     <text variable="container-title"/> -->
+          <!--     <choose> -->
+          <!--       <if position="first"> -->
+          <!--         <choose> -->
+          <!--           <if variable="references"> -->
+          <!--             <text variable="references" prefix=" "/> -->
+          <!--           </if> -->
+          <!--         </choose> -->
+          <!--       </if> -->
+          <!--     </choose> -->
+          <!--   </if> -->
+          <!--   <else> -->
+            <choose>
+              <if variable="title-short" match="all">
+                <text variable="title-short"/>
+              </if>
+              <else-if>
+                <text variable="title" />
+              </else-if>
+            </choose>
+          <!--   </else> -->
+          <!-- </choose> -->
         </else-if>
         <else-if type="legal_case-journal">
           <text macro="authors" suffix=", "/>
@@ -434,7 +441,15 @@
           </choose>
         </if>
         <else-if type="legislation">
-          <text value=" "/>
+          <choose>
+            <if variable="title-short" match="all">
+              <text variable="title" />
+            </if>
+            <else-if>
+              <text variable="title" />
+              <text variable="container-title" />
+            </else-if>
+          </choose>
         </else-if>
         <else-if type="legal_case-journal">
           <text macro="authors"/>

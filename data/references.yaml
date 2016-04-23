@@ -647,4 +647,19 @@ references:
   title: "Elliniki Radiophonia Tiléorassi AE et Panellinia Omospondia Syllogon Prossopikou contre Dimotiki Etairia Pliroforissis et Sotirios Kouvelas et Nicolaos Avdellas et autres."
   title-short: "ERT"
   number: "C-260/89"
+- type: legislation
+  id: euDir2002/58
+  title: "Directive 2002/58/CE du Parlement européen et du Conseil du 12 juillet 2002 concernant le traitement des données à caractère personnel et la protection de la vie privée dans le secteur des communications électroniques (directive vie privée et communications électroniques)"
+  title-short: "directive 2002/58/CE"
+  authority: "Union européenne"
+- type: legislation
+  id: frCpceL34-1
+  title: "L. 34-1"
+  authority: "France"
+  container-title: "Code des postes et des communications électroniques"
+  container-title-short: "CPCE"
+- type: legislation
+  id: frLcen
+  title: "Loi n^o^ 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique"
+  title-short: "LCEN"
 ...
