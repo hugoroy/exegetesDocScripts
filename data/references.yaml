@@ -626,4 +626,14 @@ references:
   title: "Association French Data Network et autres"
   title-short: "FDN et a."
   number: "n^os^ 389140, 389896"
+- type: legal_case
+  id: cjueAklagaren
+  authority: "CJUE"
+  section: "g^de^ ch."
+  issued:
+    year: 2013
+    month: 02
+    day: 26
+  title: "Åklagaren"
+  number: "C-617/10"
 ...
