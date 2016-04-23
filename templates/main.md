@@ -12,7 +12,7 @@ header-includes:
   - \DeclareUnicodeCharacter{20AC}{\euro}
   - \else 
   - \fi
-  - \newenvironment{loi}{\begin{quote}\sffamily\itshape}{\end{quote}}
+  - \newenvironment{loi}{\begin{quote}\sffamily}{\end{quote}}
   - \newenvironment{parl}{\begin{quote}\itshape}{\end{quote}}
   - \newenvironment{jpref}{\sffamily\parindent 0pt \noindent}{}
   - \def\Llap{\ifhmode\ERROR\fi\strut\llap}
