@@ -411,7 +411,7 @@
               <text variable="number" suffix=""/>
               <choose>
                 <if variable="DOI" match="all">
-                    <text variable="DOI" prefix=" `" suffix="`"/>
+                    <text variable="DOI" prefix=", " font-family="monospace"/>
                 </if>
               </choose>
               <choose>
@@ -431,7 +431,7 @@
               <text variable="number" suffix=""/>
               <choose>
                 <if variable="DOI" match="all">
-                    <text variable="DOI" prefix=" `" suffix="`"/>
+                    <text variable="DOI" prefix=", " font-family="monospace"/>
                 </if>
               </choose>
               <choose>
@@ -450,7 +450,7 @@
               <text variable="title" font-style="italic" suffix=""/>
               <choose>
                 <if variable="DOI" match="all">
-                    <text variable="DOI" prefix=" `" suffix="`"/>
+                    <text variable="DOI" prefix=", " font-family="monospace"/>
                 </if>
               </choose>
               <choose>
@@ -465,7 +465,7 @@
               <text variable="number" suffix=""/>
               <choose>
                 <if variable="DOI" match="all">
-                    <text variable="DOI" prefix=" `" suffix="`"/>
+                    <text variable="DOI" prefix=", " font-family="monospace"/>
                 </if>
               </choose>
               <choose>
@@ -479,7 +479,7 @@
               <text variable="number" suffix=""/>
               <choose>
                 <if variable="DOI" match="all">
-                    <text variable="DOI" prefix=" `" suffix="`"/>
+                    <text variable="DOI" prefix=", " font-family="monospace"/>
                 </if>
               </choose>
               <choose>
