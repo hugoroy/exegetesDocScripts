@@ -6,4 +6,4 @@
 #./get-pad/get-pad.pl --options \
 #    && \ # Run pandoc
 
-    pandoc -f markdown PADNUMBER -t html5 --self-contained -o DOCUMENT-TITLE.html --filter pandoc-citeproc --filter ./filters/html.zsh --filter ./filters/nettoyage.zsh 
+    pandoc -f markdown INPUT -t html5 --self-contained -o OUTPUT.html --filter pandoc-citeproc --filter ./filters/html.zsh --filter ./filters/nettoyage.zsh 
