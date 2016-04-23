@@ -50,14 +50,12 @@
         </choose>
       </if>
       <else-if type="legislation">
-        <!-- CHECK what this is -->
-        <!-- move statutes to the bottom -->
-        <text value="ZZZZ"/>
+        <!-- move statutes to the top -->
+        <text value="AAAAA"/>
       </else-if>
       <else>
-        <!-- CHECK what this is -->
-        <!-- move all but cases to the top -->
-        <text value="AAAA"/>
+        <!-- move all but cases to the bottom -->
+        <text value="ZZZZZ"/>
       </else>
     </choose>
   </macro>
@@ -218,10 +216,12 @@
           <!--   <else> -->
             <choose>
               <if variable="title-short" match="all">
-                <text variable="title-short"/>
+                <text variable="title"/>
               </if>
               <else-if>
                 <text variable="title" />
+                <text variable="container-title-short" prefix=" ("
+                      suffix=") " />
               </else-if>
             </choose>
           <!--   </else> -->
@@ -446,8 +446,8 @@
               <text variable="title" />
             </if>
             <else-if>
+              <text variable="container-title" suffix=", " />
               <text variable="title" />
-              <text variable="container-title" />
             </else-if>
           </choose>
         </else-if>
