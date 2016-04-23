@@ -11,7 +11,7 @@ references:
   title: Klass et autres c. Allemagne
   title-short: Klass c. All.
   number: n^o^ 5029/71
-  DOI:
+  ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-62068
   comments:
 - type: legal_case
@@ -25,7 +25,7 @@ references:
   title: Weber et Saravia c. Allemagne
   title-short: Weber c. All.
   number: n^o^ 54934/00
-  DOI:
+  ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-91699
   comments:
 - type: legal_case
@@ -39,7 +39,7 @@ references:
   title: Liberty et autres c. Royaume-Uni
   title-short: Liberty c. R-U
   number: n^o^ 58243/00
-  DOI: 
+  ECLI: 
   URL: http://hudoc.echr.coe.int/eng?i=001-87208
   comments:
 - type: legal_case
@@ -53,7 +53,7 @@ references:
   title: Kennedy c. Royaume-Uni
   title-short: Kennedy c. R-U
   number: n^o^ 26839/05
-  DOI:
+  ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-98672
   comments:
 - type: legal_case
@@ -67,7 +67,7 @@ references:
   title: "Digital Rights Ireland Ltd contre Minister for Communications, Marine and Natural Resources et autres et Kärntner Landesregierung et autres"
   title-short: Digital Rights Ireland
   number: "C-293/12, C-594/12"
-  DOI: "ECLI:EU:C:2014:238"
+  ECLI: "ECLI:EU:C:2014:238"
   URL: http://curia.europa.eu/juris/documents.jsf?num=C-293/12
   comments:
 - type: legal_case
@@ -81,7 +81,7 @@ references:
   title: "Maximilian Schrems contre Data Protection Commissioner"
   title-short: Schrems
   number: C-362/14
-  DOI: "ECLI:EU:C:2015:650"
+  ECLI: "ECLI:EU:C:2015:650"
   URL: http://curia.europa.eu/juris/documents.jsf?num=C-362/14
   comments:
 - type: legal_case
@@ -95,7 +95,7 @@ references:
   title: Roman Zakharov c. Russie
   title-short: Zakharov c. Russie
   number: n^o^ 47143/06
-  DOI:
+  ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-160008
   comments:
 - type: legal_case
@@ -109,7 +109,7 @@ references:
   title: S. et Marper c. Royaume-Uni
   title-short: Marper c. R-U
   number: n^os^ 30562/04 et 30566/04
-  DOI:
+  ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-90052
   comments:
 - type: legal_case
@@ -123,7 +123,7 @@ references:
   title: "Institut professionnel des agents immobiliers (IPI) c. Englebert et autres"
   title-short: IPI c. Englebert
   number: C-473/12
-  DOI: "ECLI:EU:C:2013:715"
+  ECLI: "ECLI:EU:C:2013:715"
   URL: http://curia.europa.eu/juris/liste.jsf?num=C-473/12
   comments:
 - type: legal_case
@@ -137,7 +137,7 @@ references:
   title: Leander c. Suède
   title-short: Leander c. Suède
   number: n^o^ 9248/81
-  DOI:
+  ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-62077
   comments:
 - type: legal_case
@@ -151,7 +151,7 @@ references:
   title: Rotaru c. Roumanie
   title-short: Rotaru c. Roumanie
   number: n^o^ 28341/95
-  DOI:
+  ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-63075
   comments:
 - type: legal_case
@@ -165,7 +165,7 @@ references:
   title: Szabó et Vissy c. Hongrie
   title-short: Szabó c. Hongrie
   number: n^o^ 37138/14
-  DOI:
+  ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-160020
   comments:
 - type: legal_case
@@ -179,7 +179,7 @@ references:
   title: "Cruciano Siragusa c. Regione Sicilia -- Soprintendenza Beni Culturali e Ambientali di Palermo"
   title-short: "Cruciano Siragusa"
   number: C-206/13
-  DOI: ECLI:EU:C:2014:126
+  ECLI: ECLI:EU:C:2014:126
   URL: http://curia.europa.eu/juris/liste.jsf?num=C-206/13
   comments:
 - type: legal_case
@@ -193,7 +193,7 @@ references:
   title: Pfleger et autres
   title-short: Pfleger
   number: C-390/12
-  DOI: ECLI:EU:C:2014:281
+  ECLI: ECLI:EU:C:2014:281
   URL: http://curia.europa.eu/juris/liste.jsf?&num=C-390/12
   comments:
 - type: legal_case
@@ -207,7 +207,7 @@ references:
   title: "Irlande c. Parlement européen et Conseil de l'Union européenne"
   title-short: "Irlande c. Parlement et Conseil"
   number: C-301/06
-  DOI: ECLI:EU:C:2009:68
+  ECLI: ECLI:EU:C:2009:68
   URL: http://curia.europa.eu/juris/liste.jsf?num=C-301/06
   comments:
 - type: legal_case
@@ -220,7 +220,7 @@ references:
     day: 21
   title: "Shimovolos c. Russie"
   number: n^o^ 30164/09
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -233,7 +233,7 @@ references:
     day: 16
   title: "Niemietz c. Allemagne"
   number: n^o^ 13710/88
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -246,7 +246,7 @@ references:
     day: 03
   title: Copland c. Royaume-Uni
   number: n^o^ 62617/00
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -259,7 +259,7 @@ references:
     day: 15
   title: "Dragojević c. Croatie"
   number: n^o^ 68955/11
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -273,7 +273,7 @@ references:
   title: Peck c. Royaume-Uni
   title-short: Peck c. R-U
   number: n^o^ 44647/98
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -287,7 +287,7 @@ references:
   title: "Association pour l'intégration européenne et les droits de l'homme et Ekimdzhiev c. Bulgarie"
   title-short: "Ekimdzhiev c. Bulgarie"
   number: n^o^ 62540/00
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -301,7 +301,7 @@ references:
   title: "Iordachi et autres c. Moldova"
   title-short: "Iordachi c. Moldova"
   number: n^o^ 25198/02
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -315,7 +315,7 @@ references:
   title: Halford c. Royaume-Uni
   title-short: Halford c. R-U
   number: n^o^ 20695/92
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -329,7 +329,7 @@ references:
   title: "PG et JH c. Royaume-Uni"
   title-short: PG et JH c. R-U
   number: n^o^ 4478/98
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -343,7 +343,7 @@ references:
   title: "MN et autres c. San Marino"
   title-short: MN c. San Marino
   number: n^o^ 28005/12
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -357,7 +357,7 @@ references:
   title: Malone c. Royaume-Uni
   title-short: Malone c. R-U
   number: n^o^ 8691/79
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -371,7 +371,7 @@ references:
   title: Loi relative au renseignement
   title-short: Loi renseignement
   number: DC 2015-713
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -385,7 +385,7 @@ references:
   title: SABAM c. Netlog
   title-short: SABAM
   number: C-360/10
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -399,7 +399,7 @@ references:
   title: "Loi relative aux mesures de surveillance des communications électroniques internationales"
   title-short: Loi surveillance internationale
   number: DC 2015-722
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -413,7 +413,7 @@ references:
   title: "Loi relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers"
   title-short: "Loi terrorisme"
   number: DC 2005-532
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -427,7 +427,7 @@ references:
   title: Association French Data Network et autres
   title-short: FDN
   number: QPC 2015-478
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -441,7 +441,7 @@ references:
   title: "Loi favorisant la diffusion et la protection de la création sur internet"
   title-short: Loi Hadopi
   number: DC 2009-580
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -455,7 +455,7 @@ references:
   title: "Parti écologiste Les Verts c. Parlement européen"
   title-short: Les Verts
   number: 294/83
-  DOI: ECLI:EU:C:1986:166
+  ECLI: ECLI:EU:C:1986:166
   URL: http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:61983CJ0294
   comments:
 - type: legal_case
@@ -469,7 +469,7 @@ references:
   title: Heylens et autres
   title-short: Heylens
   number: 222/86
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -483,7 +483,7 @@ references:
   title: Johnston
   title-short: Johnston
   number: 222/84
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -497,7 +497,7 @@ references:
   title: UGT Rioja et autres
   title-short: UGT Rioja
   number: C-428/06
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -511,7 +511,7 @@ references:
   title: ZZ c. Secretary of State for the Home Department
   title-short: ZZ
   number: C-300/11
-  DOI: ECLI:EU:C:2013:363 
+  ECLI: ECLI:EU:C:2013:363 
   URL:
   comments:
 - type: legal_case
@@ -524,7 +524,7 @@ references:
     day: 31
   title: Vetter c. France
   number: n^o^ 59842/00
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -537,7 +537,7 @@ references:
     day: 24
   title: Kruslin c. France
   number: n^o^ 11801/85
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -550,7 +550,7 @@ references:
     day: 27
   title: Telekabel
   number: C-314/12
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case
@@ -563,7 +563,7 @@ references:
     day: 17
   title: Association Ekin c. France
   number: n^o^ 39288/98
-  DOI:
+  ECLI:
   URL:
   comments:
 - type: legal_case

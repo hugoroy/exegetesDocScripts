@@ -410,8 +410,8 @@
               <text variable="title" font-style="italic" suffix=", "/>
               <text variable="number" suffix=""/>
               <choose>
-                <if variable="DOI" match="all">
-                    <text variable="DOI" prefix=", " font-family="monospace"/>
+                <if variable="ECLI" match="all">
+                    <text variable="ECLI" prefix=", " font-family="monospace"/>
                 </if>
               </choose>
               <choose>
@@ -430,8 +430,8 @@
               <text variable="title" font-style="italic" suffix=", "/>
               <text variable="number" suffix=""/>
               <choose>
-                <if variable="DOI" match="all">
-                    <text variable="DOI" prefix=", " font-family="monospace"/>
+                <if variable="ECLI" match="all">
+                    <text variable="ECLI" prefix=", " font-family="monospace"/>
                 </if>
               </choose>
               <choose>
@@ -449,8 +449,8 @@
               </date>
               <text variable="title" font-style="italic" suffix=""/>
               <choose>
-                <if variable="DOI" match="all">
-                    <text variable="DOI" prefix=", " font-family="monospace"/>
+                <if variable="ECLI" match="all">
+                    <text variable="ECLI" prefix=", " font-family="monospace"/>
                 </if>
               </choose>
               <choose>
@@ -464,8 +464,8 @@
               <text variable="title" font-style="italic" suffix=", "/>
               <text variable="number" suffix=""/>
               <choose>
-                <if variable="DOI" match="all">
-                    <text variable="DOI" prefix=", " font-family="monospace"/>
+                <if variable="ECLI" match="all">
+                    <text variable="ECLI" prefix=", " font-family="monospace"/>
                 </if>
               </choose>
               <choose>
@@ -478,8 +478,8 @@
               <text variable="authority" suffix=", "/>
               <text variable="number" suffix=""/>
               <choose>
-                <if variable="DOI" match="all">
-                    <text variable="DOI" prefix=", " font-family="monospace"/>
+                <if variable="ECLI" match="all">
+                    <text variable="ECLI" prefix=", " font-family="monospace"/>
                 </if>
               </choose>
               <choose>
