@@ -637,4 +637,14 @@ references:
   title: "Åklagaren contre Hans Åkerberg Fransson"
   title-short: "Åklagaren"
   number: "C-617/10"
+- type: legal_case
+  id: cjueERT
+  authority: "CJUE"
+  issued:
+    year: 1991
+    month: 06
+    day: 18
+  title: "Elliniki Radiophonia Tiléorassi AE et Panellinia Omospondia Syllogon Prossopikou contre Dimotiki Etairia Pliroforissis et Sotirios Kouvelas et Nicolaos Avdellas et autres."
+  title-short: "ERT"
+  number: "C-260/89"
 ...
