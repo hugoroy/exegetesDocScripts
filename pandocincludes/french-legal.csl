@@ -410,6 +410,11 @@
               <text variable="title" font-style="italic" suffix=", "/>
               <text variable="number" suffix=""/>
               <choose>
+                <if variable="DOI" match="all">
+                    <text variable="DOI" prefix=" `" suffix="`"/>
+                </if>
+              </choose>
+              <choose>
                 <if variable="URL" match="all">
                     <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
                 </if>
@@ -425,6 +430,11 @@
               <text variable="title" font-style="italic" suffix=", "/>
               <text variable="number" suffix=""/>
               <choose>
+                <if variable="DOI" match="all">
+                    <text variable="DOI" prefix=" `" suffix="`"/>
+                </if>
+              </choose>
+              <choose>
                 <if variable="URL" match="all">
                     <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
                 </if>
@@ -439,6 +449,11 @@
               </date>
               <text variable="title" font-style="italic" suffix=""/>
               <choose>
+                <if variable="DOI" match="all">
+                    <text variable="DOI" prefix=" `" suffix="`"/>
+                </if>
+              </choose>
+              <choose>
                 <if variable="URL" match="all">
                     <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
                 </if>
@@ -449,6 +464,11 @@
               <text variable="title" font-style="italic" suffix=", "/>
               <text variable="number" suffix=""/>
               <choose>
+                <if variable="DOI" match="all">
+                    <text variable="DOI" prefix=" `" suffix="`"/>
+                </if>
+              </choose>
+              <choose>
                 <if variable="URL" match="all">
                     <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
                 </if>
@@ -457,6 +477,11 @@
             <else-if variable="authority number" match="all">
               <text variable="authority" suffix=", "/>
               <text variable="number" suffix=""/>
+              <choose>
+                <if variable="DOI" match="all">
+                    <text variable="DOI" prefix=" `" suffix="`"/>
+                </if>
+              </choose>
               <choose>
                 <if variable="URL" match="all">
                     <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
