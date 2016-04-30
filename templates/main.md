@@ -11,6 +11,7 @@ header-includes:
   - \DeclareUnicodeCharacter{00B0}{\textsuperscript{o}}
   - \DeclareUnicodeCharacter{20AC}{\euro}
   - \else 
+  - \renewcommand{\labelitemi}{--}
   - \fi
   - \newenvironment{loi}{\begin{quote}\sffamily}{\end{quote}}
   - \newenvironment{parl}{\begin{quote}\itshape}{\end{quote}}
