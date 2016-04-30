@@ -414,11 +414,12 @@
                     <text variable="ECLI" prefix=", " font-family="monospace"/>
                 </if>
               </choose>
-              <choose>
-                <if variable="URL" match="all">
-                    <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
-                </if>
-              </choose>
+              <!-- TODO make this a link instead of displaying the URL -->
+              <!-- <choose> -->
+              <!--   <if variable="URL" match="all"> -->
+              <!--       <text variable="URL" prefix=" &lt;" suffix="&gt;"/> -->
+              <!--   </if> -->
+              <!-- </choose> -->
             </if>
             <else-if variable="authority title issued number" match="all">
               <text variable="authority" suffix=", "/>
@@ -434,11 +435,12 @@
                     <text variable="ECLI" prefix=", " font-family="monospace"/>
                 </if>
               </choose>
-              <choose>
-                <if variable="URL" match="all">
-                    <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
-                </if>
-              </choose>
+              <!-- TODO make this a link instead of displaying the URL -->
+              <!-- <choose> -->
+              <!--   <if variable="URL" match="all"> -->
+              <!--       <text variable="URL" prefix=" &lt;" suffix="&gt;"/> -->
+              <!--   </if> -->
+              <!-- </choose> -->
             </else-if>
             <else-if variable="authority title issued" match="all">
               <text variable="authority" suffix=", "/>
@@ -468,11 +470,12 @@
                     <text variable="ECLI" prefix=", " font-family="monospace"/>
                 </if>
               </choose>
-              <choose>
-                <if variable="URL" match="all">
-                    <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
-                </if>
-              </choose>
+              <!-- TODO make this a link instead of displaying the URL -->
+              <!-- <choose> -->
+              <!--   <if variable="URL" match="all"> -->
+              <!--       <text variable="URL" prefix=" &lt;" suffix="&gt;"/> -->
+              <!--   </if> -->
+              <!-- </choose> -->
             </else-if>
             <else-if variable="authority number" match="all">
               <text variable="authority" suffix=", "/>
@@ -482,11 +485,12 @@
                     <text variable="ECLI" prefix=", " font-family="monospace"/>
                 </if>
               </choose>
-              <choose>
-                <if variable="URL" match="all">
-                    <text variable="URL" prefix=" &lt;" suffix="&gt;"/>
-                </if>
-              </choose>
+              <!-- TODO make this a link instead of displaying the URL -->
+              <!-- <choose> -->
+              <!--   <if variable="URL" match="all"> -->
+              <!--       <text variable="URL" prefix=" &lt;" suffix="&gt;"/> -->
+              <!--   </if> -->
+              <!-- </choose> -->
             </else-if>
           </choose>
         </if>
