@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 # FIXME : make get-pad work, make PADNUMBER and DOCUMENT-TITLE into variables
 

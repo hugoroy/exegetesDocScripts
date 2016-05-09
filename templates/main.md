@@ -24,8 +24,8 @@ header-includes:
 euro: true
 include-before:
   - \pagestyle{plain}
-csl: pandocincludes/french-legal.csl
-bibliography: data/references.yaml
+csl: ../pandocincludes/french-legal.csl
+bibliography: ../data/references.yaml
 latex-environment:
   loi: [loi]
   parl: [parl]
