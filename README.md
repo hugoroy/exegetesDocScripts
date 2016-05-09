@@ -5,6 +5,16 @@ exegetesDocScripts
 Outils de production de documents juridiques pour les Exégètes
 Amateurs. [Site web](https://exegetes.eu.org/outils/).
 
+## Rapidement : comment utiliser
+
+Pour convertir un pad d'exégète en fichier latex prêt à compiler en
+PDF :
+
+    ./pad2latex.bash PAD DOSSIER
+
+(Il faut préalablement définir les variables "url", "email" et
+"passwd" pour get-pad, voir le README de get-pad).
+
 ## Installation et pré-requis
 
 Ne pas oublier les submodules Git. Pour un dépôt déjà cloné :
