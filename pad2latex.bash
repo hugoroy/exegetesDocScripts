@@ -5,7 +5,7 @@
 pad=$1
 dir=$2
 
-if ! ./get-pad.pl -o $dir -r $pad; then
+if ! ./get-pad/get-pad.pl -o $dir -r $pad; then
     echo Failed to get the pad $pad
     exit 1
 fi
