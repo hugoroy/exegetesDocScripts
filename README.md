@@ -12,8 +12,11 @@ PDF :
 
     ./pad2latex.bash PAD DOSSIER
 
-(Il faut préalablement définir les variables "url", "email" et
-"passwd" pour get-pad, voir le README de get-pad).
+Il faut préalablement définir les variables "url", "email" et
+"passwd" pour get-pad: modifier `pad2latex.bash` et rajouter les
+options suivantes à get-pad.pl:
+
+    -p "https://fdn.quadpad.fr/" -login VOTRELOGIN -passwd VOTREPASS
 
 ## Installation et pré-requis
 
