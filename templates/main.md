@@ -19,7 +19,7 @@ header-includes:
   - \def\Llap{\ifhmode\ERROR\fi\strut\llap}
   - \setcounter{tocdepth}{2}
   - \setcounter{secnumdepth}{4}
-  - \input data/titleclass
+  - \input ../data/titleclass
   - \parskip=6pt
 euro: true
 include-before:
