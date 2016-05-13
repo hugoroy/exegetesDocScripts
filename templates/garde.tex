@@ -1,4 +1,8 @@
 \begin{titlepage}
+\newenvironment{marges}[2]{
+\begin{list}{}{\setlength{\leftmargin}{#1}% 
+\setlength{\rightmargin}{#2}}\item}
+{\end{list}}
 \pagestyle{empty}
 \begin{minipage}{5cm}\centering
 Conseil d'État\par
@@ -51,6 +55,7 @@ Mail: \url{contact@ffdn.org}
 
 \textbf{}
 
+\end{marges}
 
 \end{titlepage}
 

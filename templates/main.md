@@ -4,7 +4,7 @@ classoption: 12pt, twoside
 lang: fr-fr
 babel-lang: french
 mainlang: french
-geometry: a4paper, margin=1in
+geometry: a4paper, margin=1in, left=1.5in, right=1.5in
 header-includes:
   - \usepackage{titlesec,varioref,chngcntr}
   - \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 
