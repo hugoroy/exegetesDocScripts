@@ -1,12 +1,12 @@
 ---
 documentclass: report
-classoption: 12pt
+classoption: 12pt, twoside
 lang: fr-fr
 babel-lang: french
 mainlang: french
 geometry: a4paper, margin=1in
 header-includes:
-  - \usepackage{titlesec,varioref}
+  - \usepackage{titlesec,varioref,chngcntr}
   - \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 
   - \DeclareUnicodeCharacter{00B0}{\textsuperscript{o}}
   - \DeclareUnicodeCharacter{20AC}{\euro}
@@ -19,6 +19,7 @@ header-includes:
   - \def\Llap{\ifhmode\ERROR\fi\strut\llap}
   - \setcounter{tocdepth}{2}
   - \setcounter{secnumdepth}{4}
+  - \counterwithout{footnote}{chapter}
   - \input ../data/titleclass
   - \parskip=6pt
 euro: true
