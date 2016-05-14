@@ -66,9 +66,9 @@ references:
     day: 08
   title: "Digital Rights Ireland Ltd contre Minister for Communications, Marine and Natural Resources et autres et Kärntner Landesregierung et autres"
   title-short: Digital Rights Ireland
-  number: "C–293/12, C–594/12"
+  number: "C-293/12, C-594/12"
   ECLI: "ECLI:EU:C:2014:238"
-  URL: http://curia.europa.eu/juris/documents.jsf?num=C–293/12
+  URL: http://curia.europa.eu/juris/documents.jsf?num=C-293/12
   comments:
 - type: legal_case
   id: cjueSchrems
@@ -80,9 +80,9 @@ references:
     day: 06
   title: "Maximilian Schrems contre Data Protection Commissioner"
   title-short: Schrems
-  number: C–362/14
+  number: C-362/14
   ECLI: "ECLI:EU:C:2015:650"
-  URL: http://curia.europa.eu/juris/documents.jsf?num=C–362/14
+  URL: http://curia.europa.eu/juris/documents.jsf?num=C-362/14
   comments:
 - type: legal_case
   id: cedhZakharov
@@ -122,9 +122,9 @@ references:
     day: 07
   title: "Institut professionnel des agents immobiliers (IPI) c. Englebert et autres"
   title-short: IPI c. Englebert
-  number: C–473/12
+  number: C-473/12
   ECLI: "ECLI:EU:C:2013:715"
-  URL: http://curia.europa.eu/juris/liste.jsf?num=C–473/12
+  URL: http://curia.europa.eu/juris/liste.jsf?num=C-473/12
   comments:
 - type: legal_case
   id: cedhLeander
@@ -178,9 +178,9 @@ references:
     day: 06
   title: "Cruciano Siragusa c. Regione Sicilia -- Soprintendenza Beni Culturali e Ambientali di Palermo"
   title-short: "Cruciano Siragusa"
-  number: C–206/13
+  number: C-206/13
   ECLI: ECLI:EU:C:2014:126
-  URL: http://curia.europa.eu/juris/liste.jsf?num=C–206/13
+  URL: http://curia.europa.eu/juris/liste.jsf?num=C-206/13
   comments:
 - type: legal_case
   id: cjuePfleger
@@ -192,9 +192,9 @@ references:
     day: 30
   title: Pfleger et autres
   title-short: Pfleger
-  number: C–390/12
+  number: C-390/12
   ECLI: ECLI:EU:C:2014:281
-  URL: http://curia.europa.eu/juris/liste.jsf?&num=C–390/12
+  URL: http://curia.europa.eu/juris/liste.jsf?&num=C-390/12
   comments:
 - type: legal_case
   id: cjueIrlandeVsEuroparl
@@ -206,9 +206,9 @@ references:
     day: 10
   title: "Irlande c. Parlement européen et Conseil de l'Union européenne"
   title-short: "Irlande c. Parlement et Conseil"
-  number: C–301/06
+  number: C-301/06
   ECLI: ECLI:EU:C:2009:68
-  URL: http://curia.europa.eu/juris/liste.jsf?num=C–301/06
+  URL: http://curia.europa.eu/juris/liste.jsf?num=C-301/06
   comments:
 - type: legal_case
   id: cedhShimovolos
@@ -384,7 +384,7 @@ references:
     day: 16
   title: SABAM c. Netlog
   title-short: SABAM
-  number: C–360/10
+  number: C-360/10
   ECLI:
   URL:
   comments:
@@ -496,7 +496,7 @@ references:
     day:
   title: UGT Rioja et autres
   title-short: UGT Rioja
-  number: C–428/06
+  number: C-428/06
   ECLI:
   URL:
   comments:
@@ -510,7 +510,7 @@ references:
     day: 04
   title: ZZ c. Secretary of State for the Home Department
   title-short: ZZ
-  number: C–300/11
+  number: C-300/11
   ECLI: ECLI:EU:C:2013:363 
   URL:
   comments:
@@ -549,7 +549,7 @@ references:
     month: 03
     day: 27
   title: Telekabel
-  number: C–314/12
+  number: C-314/12
   ECLI:
   URL:
   comments:
@@ -636,7 +636,7 @@ references:
     day: 26
   title: "Åklagaren contre Hans Åkerberg Fransson"
   title-short: "Åklagaren"
-  number: "C–617/10"
+  number: "C-617/10"
 - type: legal_case
   id: cjueERT
   authority: "CJUE"
@@ -646,7 +646,7 @@ references:
     day: 18
   title: "Elliniki Radiophonia Tiléorassi AE et Panellinia Omospondia Syllogon Prossopikou contre Dimotiki Etairia Pliroforissis et Sotirios Kouvelas et Nicolaos Avdellas et autres."
   title-short: "ERT"
-  number: "C–260/89"
+  number: "C-260/89"
 - type: legislation
   id: euDir2002/58
   title: "Directive 2002/58/CE du Parlement européen et du Conseil du 12 juillet 2002 concernant le traitement des données à caractère personnel et la protection de la vie privée dans le secteur des communications électroniques (directive vie privée et communications électroniques)"
